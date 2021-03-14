@@ -4,11 +4,14 @@
 
 <br />
 
+# Janine Love's Resume
+Built in React, off WeLoveDevs' awesome open source template (Because React is now easier for me to use than Microsoft Word.)
+
 # react-ultimate-resume by WeLoveDevs.com
 [![npm (scoped)](https://img.shields.io/npm/v/@welovedevs/react-ultimate-resume?color=%23220DAD)](https://www.npmjs.com/package/@welovedevs/react-ultimate-resume)
 [![npm](https://img.shields.io/npm/dw/@welovedevs/react-ultimate-resume?color=%23220DAD)](https://www.npmjs.com/package/@welovedevs/react-ultimate-resume)
 
-**react-ultimate-resume** is an open-source customizable software developer resume to highlight your skills and experiences.
+### react-ultimate-resume is an open-source customizable software developer resume to highlight your skills and experiences.
 
 Discover a modern approach of the traditional CV that includes animations and latest front-end technologies. Impress recruiters or customers with your projects, hobbies and experiences as never before.
 
